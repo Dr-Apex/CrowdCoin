@@ -1,5 +1,5 @@
 # CrowdCoin
-> Decentralized App based on Ethereum Blockchain that resolves the issue with centralized systems (eg: kickstarter) developed using Web3.js, Next.js and Solidity.
+> Decentralized App based on Ethereum Blockchain that resolves the issue with centralized systems (eg: kickstarter) developed using Web3.js, Next.js, Solidity, Infura and Mocha.
 
 - The main benefit of moving to blockchain would be that no trust would be needed.
 - Everything would be managed automatically with smart contracts still retaining a level of authority to sign off to ensure that the kickstarter projects being real.
